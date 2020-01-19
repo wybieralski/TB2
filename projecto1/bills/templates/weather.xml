@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://open.live.bbc.co.uk/weather/feeds/en/2742611/3dayforecast.rss" rel="self" type="application/rss+xml" />
+    <title>BBC Weather - Forecast for  Aveiro, Portugal</title>
+    <link>http://www.bbc.co.uk/weather/2742611</link>
+    <description>3-day forecast for Aveiro from BBC Weather, including weather, temperature and wind information</description>
+    <language>en</language>
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://www.bbc.co.uk/terms/additional_rss.shtml for more details</copyright>
+    <pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+  </channel>
+</rss>
+
